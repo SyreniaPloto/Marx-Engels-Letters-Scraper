@@ -1,7 +1,16 @@
-# .gitignore
+# 忽略所有 .pyc 文件和 __pycache__ 目录
 __pycache__/
 *.pyc
+
+# 忽略所有 .log 文件
 *.log
+
+# 忽略所有 .csv 文件
 *.csv
+
+# 忽略所有 .txt 文件，但不包括 requirements.txt
 *.txt
+!requirements.txt
+
+# 忽略 temp_results 目录
 temp_results/
