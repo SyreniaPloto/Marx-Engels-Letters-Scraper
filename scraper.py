@@ -1,4 +1,5 @@
 import requests
+import urllib3
 from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
@@ -8,6 +9,7 @@ import random
 import os
 from urllib.parse import quote
 
+urllib3.disable_warnings()
 MAX_RETRIES = 10
 RETRY_WAIT_TIME = 10  # seconds
 
