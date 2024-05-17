@@ -1,6 +1,5 @@
 # Marx Engels Letters Scraper
 
-[![CI](https://github.com/SyreniaPloto/Marx-Engels-Letters-Scraper/actions/workflows/ci.yml/badge.svg)](https://github.com/SyreniaPloto/Marx-Engels-Letters-Scraper/actions/workflows/ci.yml)
 
 ## Overview 概述
 This project scrapes letters from the Marx Engels digital archive and verifies the completeness and correctness of the data.
