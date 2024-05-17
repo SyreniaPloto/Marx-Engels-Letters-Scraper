@@ -21,7 +21,7 @@ This project scrapes letters from the Marx Engels digital archive and verifies t
 
 ## Installation 安装
 ```bash
-git clone https://github.com/yourusername/marx_engels_letters_scraper.git
+git clone https://github.com/SyreniaPloto/Marx-Engels-Letters-Scraper.git
 cd marx_engels_letters_scraper
 pip install -r requirements.txt
 ```
